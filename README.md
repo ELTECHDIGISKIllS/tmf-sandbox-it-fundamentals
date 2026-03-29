@@ -22,7 +22,7 @@ This repository serves as the central sandbox environment for the TMF Scholar De
 See the main TMF-SANDBOX in Zoho WorkDrive for the complete organization.
 
 ## How to Use
-1. Clone the repo: `git clone https://github.com/yourusername/tmf-sandbox-it-fundamentals.git`
+1. Clone the repo: `git clone https://github.com/ELTECHDIGISKIllS/tmf-sandbox-it-fundamentals`
 2. Document all activities in Markdown.
 3. Keep everything organized and reusable.
 
